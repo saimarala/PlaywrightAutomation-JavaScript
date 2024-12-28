@@ -1,10 +1,6 @@
-<testsuites id="" name="" tests="3" failures="0" skipped="0" errors="0" time="1.9000879999995233">
-<testsuite name="Reporters.spec.js" timestamp="2023-07-26T06:13:02.005Z" hostname="chromium" tests="3" failures="0" skipped="0" time="3.936" errors="0">
-<testcase name="Test1" classname="Reporters.spec.js" time="1.209">
-</testcase>
-<testcase name="Test2" classname="Reporters.spec.js" time="1.269">
-</testcase>
-<testcase name="Test3" classname="Reporters.spec.js" time="1.458">
+<testsuites id="" name="" tests="1" failures="0" skipped="0" errors="0" time="9.996568000000002">
+<testsuite name="mytest.spec.js" timestamp="2024-12-28T04:04:24.445Z" hostname="chromium" tests="1" failures="0" skipped="0" time="6.202" errors="0">
+<testcase name="test" classname="mytest.spec.js" time="6.202">
 </testcase>
 </testsuite>
 </testsuites>
